@@ -14,3 +14,7 @@
 # type conversion
 # converting types  srt(what we want to convert) ->> converted to a string
  
+ 
+#  division always give a floating point number
+
+#  ** this is for exponent 6 ** 2 six to the power of two
